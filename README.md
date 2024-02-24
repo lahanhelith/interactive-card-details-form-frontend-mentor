@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/lahanhelith/interactive-card-details-form-frontend-mentor)
 - Live Site URL: [Live Site URL](https://your-live-site-url.com)
 
 ## My process
